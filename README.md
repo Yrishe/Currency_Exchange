@@ -1,4 +1,4 @@
-# Currency_Exchange
+# Currency Converter
 
 This project aim to simulate a currency converter.
 
